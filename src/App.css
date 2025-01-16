@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+}
+
+#root {
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  color: black;
+}
